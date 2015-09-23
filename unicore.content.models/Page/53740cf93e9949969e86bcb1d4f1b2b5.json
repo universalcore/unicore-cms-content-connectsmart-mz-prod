@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A internet pode-me ajudar com os trabalhos escolares.", 
+  "language": "por_MZ", 
+  "title": "Usando a internet para projectos", 
+  "primary_category": "3a4b7c45d06b4c5aa88ebcd8ad9adca5", 
+  "created_at": "2015-09-23T11:32:44.913664+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-23T11:32:44.913875+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Eu estou fazendo uma pesquisa para um projecto da escola ou universidade. Como a internet pode-me ajudar?**\r\n \r\n\r\n - A internet tem muitas informa\u00e7\u00f5es \u00fateis para trabalhos e projectos. Pode come\u00e7ar usando uma ferramenta de busca ou a Wikip\u00e9dia e digitando palavras-chave que descrevem o que procuras.\r\n - Se estiveres a procurar por informa\u00e7\u00f5es para a escola ou universidade, deves sempre verificar quem escreveu as informa\u00e7\u00f5es (tamb\u00e9m conhecido como \u201cfonte\u201d ou \u201crefer\u00eancia\u201d).\r\n - Boas fontes ou refer\u00eancias para projectos de escola ou universidade incluem: universidades, peri\u00f3dicos acad\u00e9micos, websites de grandes organiza\u00e7\u00f5es, relat\u00f3rios oficiais, etc.\r\n - Mantem a lista dos websites que acessas para obter informa\u00e7\u00f5es.\r\n - Provavelmente precisar\u00e1s inclu\u00ed-los em uma lista chamada bibliografia junto com o teu projecto.\r\n - Verifica se a informa\u00e7\u00e3o \u00e9 actualizada. Pode haver informa\u00e7\u00e3o mais recente. Lembra-te que as estat\u00edsticas s\u00e3o actualizadas com frequ\u00eancia.\r\n - Lembra-te de que nem tudo que l\u00eas na internet \u00e9 verdade. Toma cuidado com a fonte consultada.\r\n - N\u00e3o copies texto da internet sem mencionar a fonte ou pretendas que o escreveu. Al\u00e9m de estar a cometer um crime, \u00e9 muito f\u00e1cil descobrir se um texto publicado na internet foi copiado e utilizado num exame. \r\n \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "59f84077b8b446f4bd2a91d95eed61fa", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "usando-internet-para-projectos", 
+  "uuid": "53740cf93e9949969e86bcb1d4f1b2b5"
+}
