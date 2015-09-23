@@ -6,12 +6,12 @@
   "primary_category": "3a4b7c45d06b4c5aa88ebcd8ad9adca5", 
   "created_at": "2015-09-23T10:49:48.675438+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T10:49:48.675650+00:00", 
+  "modified_at": "2015-09-23T11:37:17.042056+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "**Algu\u00e9m me enviou um pedido de amizade, mas eu n\u00e3o conhe\u00e7o esta pessoa. O que devo fazer?**\r\n\r\n - As vezes, as pessoas querem interagir ou fazer um monte de amigos nas redes sociais. Por isso, enviam pedidos de amizade para pessoas que n\u00e3o conhecem.\r\n - Antes de aceitar um pedido de amizade, deves observar o perfil dessa pessoa e tentar ver quem ela \u00e9. Tens amigos em comum? S\u00e3o da mesma cidade?\r\n - N\u00e3o tens que aceitar o pedido se n\u00e3o te sentires confort\u00e1vel em compartilhar informa\u00e7\u00f5es particulares com a pessoa. N\u00e3o te sintas pressionado a faz\u00ea-lo.\r\n - Verifique as configura\u00e7\u00f5es de privacidade para que essa pessoa n\u00e3o veja as tuas informa\u00e7\u00f5es pessoais, caso n\u00e3o queiras mostra-la para ela.\r\n - Lembra-te tamb\u00e9m de que, \u00e0s vezes, na internet, as pessoas fingem ser quem n\u00e3o s\u00e3o.\r\n \r\n\r\n", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "claudio"
+  ], 
   "image": "0391c69a8cf54a8597331d4e59dd3c87", 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conheces-pessoa-que-esta-te-adicionando", 
   "uuid": "a9d021f441fc459d861243d976d9a472"
